@@ -8,17 +8,7 @@ Journal editors spend significant time finding qualified reviewers. This registr
 
 Registered reviewers may be contacted by editors of participating journals when a submission matches their expertise.
 
----
-
-## Participating Journals
-
-- IEEE Transactions on Software Engineering (TSE)
-- ACM Transactions on Software Engineering and Methodology (TOSEM)
-- Empirical Software Engineering (EMSE)
-- Journal of Systems and Software (JSS)
-- Information and Software Technology (IST)
-
----
+Transparency is a core rationale: all registration requests and acceptance decisions are made publicly via pull requests. Anyone can see who applied, what was submitted, and what decision was made. This makes the registry auditable and builds trust in the process.
 
 ## Registration Requirements
 
